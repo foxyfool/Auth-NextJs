@@ -1,12 +1,20 @@
 
 Key Features:
+
 Next.js 14 with server actions
+
 Credentials Provider
+
 OAuth Provider (Social login with Google & GitHub)
+
 Forgot password functionality
+
 Email verification
+
 Two factor verification
+
 User roles (Admin & User)
+
 Change email with new verification in Settings page
 
 ### Prerequisites
