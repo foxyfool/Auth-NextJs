@@ -6,7 +6,7 @@ interface ProtectedLayoutProps {
 
 const ProtectedLayout = ({ children }: ProtectedLayoutProps) => {
   return (
-    <div className="min-h-screen flex flex-col justify-between bg-gradient-to-b from-pink-500 to-purple-600 overflow-hidden">
+    <div className="h-full w-full flex flex-col gap-y-10 items-center justify-center bg-gradient-to-b from-pink-500 to-purple-600 overflow-hidden">
       <Navbar />
       {children}
     </div>
